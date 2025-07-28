@@ -118,7 +118,7 @@
 
 </details>
 <details>
-<summary><strong>OCR/strong></summary>
+<summary><strong>OCR</strong></summary>
 
 **OCR (Optical Character Recognition)** — это технология оптического распознавания текста на изображениях.
 
