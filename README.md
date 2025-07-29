@@ -179,20 +179,36 @@ OCR используется в задачах:
 Пример работы модели детекции (YOLO), выделяющей зону маркировки на изображении:  
 🔗 [YOLO — пример работы](https://drive.google.com/file/d/1igoJI3RrPphTYL0JTgO_fDJH_zEXT5SR/view?usp=sharing)
 
+<img src="https://drive.google.com/uc?export=view&id=1igoJI3RrPphTYL0JTgO_fDJH_zEXT5SR" alt="YOLO Detection" width="600"/>
+
 ---
 
 ### 📄 Примеры работы моделей OCR
 
 #### EasyOCR (ru)
-- Исходное изображение: [ссылка](https://drive.google.com/file/d/16YGTwhcu6jRa2dlY4FXmlUO2XsUSklpy/view?usp=drive_link)
-- Результат распознавания: [ссылка](https://drive.google.com/file/d/1mL3SUJTCaDuclLHsnOfPPIdvdrqZZt2_/view?usp=drive_link)
+
+**Исходное изображение:**  
+<img src="https://drive.google.com/uc?export=view&id=16YGTwhcu6jRa2dlY4FXmlUO2XsUSklpy" alt="Исходник EasyOCR" width="400"/>
+
+**Результат распознавания:**  
+<img src="https://drive.google.com/uc?export=view&id=1mL3SUJTCaDuclLHsnOfPPIdvdrqZZt2_" alt="Результат EasyOCR ru" width="400"/>
+
+---
 
 #### TrOCR-base-ru
-- Исходное изображение: [ссылка](https://drive.google.com/file/d/16YGTwhcu6jRa2dlY4FXmlUO2XsUSklpy/view?usp=drive_link)
-- Результат распознавания: [ссылка](https://drive.google.com/file/d/13m2Y1jxHJX7ddQdUlokTOcebHfR5ZDaL/view?usp=drive_link)
+
+**Исходное изображение:**  
+<img src="https://drive.google.com/uc?export=view&id=16YGTwhcu6jRa2dlY4FXmlUO2XsUSklpy" alt="Исходник TrOCR ru" width="400"/>
+
+**Результат распознавания:**  
+<img src="https://drive.google.com/uc?export=view&id=13m2Y1jxHJX7ddQdUlokTOcebHfR5ZDaL" alt="Результат TrOCR ru" width="400"/>
+
+---
 
 #### TrOCR-base-printed
-- Результат распознавания: [ссылка](https://drive.google.com/file/d/16IphJkmq3FYUjBUUmLVuOEJibUdX-qq7/view?usp=drive_link)
+
+**Результат распознавания:**  
+<img src="https://drive.google.com/uc?export=view&id=16IphJkmq3FYUjBUUmLVuOEJibUdX-qq7" alt="TrOCR Printed Result" width="400"/>
 
 ---
 
@@ -209,7 +225,8 @@ OCR используется в задачах:
 ❗ Однако стабильность результата остаётся низкой — модель чувствительна к качеству входного изображения.
 
 - 📜 [Код изменения предобработки](https://drive.google.com/file/d/1OaQI05Qe_TVmWGCqGkvjp4NnaS3mcf7n/view?usp=drive_link)  
-- 🖼️ [Фото после предобработки](https://drive.google.com/file/d/1WDFTlw-9xRnQvTEQHQw_r1oPZU3bRU47/view?usp=drive_link)
+- 🖼️ Фото после предобработки:  
+  <img src="https://drive.google.com/uc?export=view&id=1WDFTlw-9xRnQvTEQHQw_r1oPZU3bRU47" alt="Фото после предобработки" width="400"/>
 
 ---
 
@@ -217,7 +234,9 @@ OCR используется в задачах:
 
 На текущем этапе **лучшие результаты показала модель EasyOCR (ru+en)**.
 
-- 📌 [Пример результата EasyOCR (ru+en)](https://drive.google.com/file/d/1vTnnkPpZS8uM1XVGkeWK_JfWEkLGcEpE/view?usp=drive_link)
+<img src="https://drive.google.com/uc?export=view&id=1vTnnkPpZS8uM1XVGkeWK_JfWEkLGcEpE" alt="EasyOCR ru+en Final Result" width="400"/>
+
+---
 
 </details>
 <details>
